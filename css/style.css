@@ -304,11 +304,11 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
 }
 
 .container-offers {
-    display: flex;
-    margin-left: 59px;
-    margin-top: 28px;
-    margin-bottom: 25px;
-    letter-spacing: 0.0px;
+	display: flex;
+	margin-left: 59px;
+	margin-top: 28px;
+	margin-bottom: 25px;
+	letter-spacing: 0.0px;
 }
 
 
@@ -424,7 +424,7 @@ input[type="search"]::-webkit-search-results-decoration { display: none; }
 
 
 .image-item-title p{
-font-size: 16px;
+	font-size: 16px;
 }
 
 .image-item-title #first-p{
@@ -643,9 +643,9 @@ font-size: 16px;
 }
 
 #rights {
-    margin-left: 22px;
-    margin-top: 11px;
-    color: #acacac;
+	margin-left: 22px;
+	margin-top: 11px;
+	color: #acacac;
 }
 /* for first slider */
 .slider {
